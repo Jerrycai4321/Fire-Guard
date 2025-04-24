@@ -2,6 +2,7 @@
 
 ![Image27](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Image27.png?raw=true)
 
+[Prototype Demo Video (YouTube)](https://youtu.be/HaKyc20MGzE)  
 
 ## Project Brief
 FireGuard is a wildfire detection unit engineered for extreme resilience and sustainability. It is designed to withstand remote, harsh conditions and even direct wildfire exposure. The device minimizes pollution if damaged by fire, using materials that burn cleanly or not at all, and is built for potential reuse or recycling after a fire. The diagram below outlines FireGuard’s key components, each chosen for fire-resistance and low environmental impact, along with a life-cycle pathway for recovery and reuse.
@@ -12,9 +13,10 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
 ## Product Design
 ![Material.png](https://github.com/Jerrycai4321/Fire-Guard/raw/main/Material.png?raw=true)
 
-
-
 ## Interfaces
+![ui1.png](https://github.com/Jerrycai4321/Fire-Guard/raw/main/ui1.png?raw=true)
+
+
 
 ### Device Interface
 - **NeoPixel Alert Strip**: 30 LEDs on GPIO 5 flash red when Fire AQI > 300  
@@ -31,7 +33,6 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
 - ✅ **Real-time Fire AQI calculation & local flashing**  
 - ✅ **MQTT alert published to “fire-alert-feed”**  
 - ✅ **Minimal hardware footprint**  
-- 🔗 [Demo Video (YouTube)](https://youtu.be/HaKyc20MGzE)  
 
 ## Flow State and Sketches
 ![Flow Diagram](./flowstate.png)  
