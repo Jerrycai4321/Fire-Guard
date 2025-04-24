@@ -16,25 +16,12 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
 ## Interfaces
 ![ui1.png](https://github.com/Jerrycai4321/Fire-Guard/raw/main/ui1.png?raw=true)
 
-
-
-### Device Interface
-- **NeoPixel Alert Strip**: 30 LEDs on GPIO 5 flash red when Fire AQI > 300  
-- **Serial Console**: Prints `"1"` on alert to simplify downstream logging  
-
-### Cloud Dashboard
-- **Adafruit IO** streams:
-  - `Temp_Feed` – raw temperature readings  
-  - `fire-alert-feed` – binary alert flag (0/1)  
-
-> _Create these feeds under your Adafruit IO account before running firmware._
-
 ## Project Outcome
 - ✅ **Real-time Fire AQI calculation & local flashing**  
 - ✅ **MQTT alert published to “fire-alert-feed”**  
 - ✅ **Minimal hardware footprint**  
 
-## Flow State and Sketches
+## Flow State
 ![flowstate1](https://github.com/Jerrycai4321/Fire-Guard/raw/main/flowstate1.png?raw=true)  
 1. **Data Acquisition**: EnvPRO + IR + Light → raw readings  
 2. **AQI Computation**: normalize & weight → 0–500 scale  
@@ -43,7 +30,7 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
    - Else → idle  
 4. **Alert Mode**:  
    - Flash NeoPixels red  
-   - Publish `"1"` to MQTT  
+   - Publish Alert using  MQTT to Adafruit IO
 
 ## Material Used
 - **Prototyping Platform**: ESP32 M5 Stack  
