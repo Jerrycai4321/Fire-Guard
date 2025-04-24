@@ -7,7 +7,7 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
 ![Research.png](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Research.png?raw=true)
 
 ## Product Design
-![Material.png](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Research.png?raw=true)
+![Material.png](https://github.com/Jerrycai4321/Fire-Guard/raw/main/Material.png?raw=true)
 
 
 
