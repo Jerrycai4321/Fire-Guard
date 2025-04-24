@@ -1,11 +1,9 @@
 # Fire Guard – Fire Air-Quality Monitoring & Alert System
 
 ## Project Brief
-Fire Guard is a portable, real-time fire-risk detection device built on the M5 Stack platform. It fuses data from an EnvPRO environmental sensor (gas, temperature, humidity), a reflective IR sensor, and a light sensor to compute a **Fire AQI** (Air-Quality Index). If the Fire AQI exceeds a safe threshold, the device immediately:
-1. Flashes a 30-pixel NeoPixel strip bright red  
-2. Publishes an alert (“1”) to an Adafruit IO feed (`fire-alert-feed`)
+FireGuard is a wildfire detection unit engineered for extreme resilience and sustainability. It is designed to withstand remote, harsh conditions and even direct wildfire exposure. The device minimizes pollution if damaged by fire, using materials that burn cleanly or not at all, and is built for potential reuse or recycling after a fire. The diagram below outlines FireGuard’s key components, each chosen for fire-resistance and low environmental impact, along with a life-cycle pathway for recovery and reuse.
 
-This provides both a local visual warning and a cloud-based notification for remote monitoring.
+## Research
 
 ## Interfaces
 
