@@ -35,7 +35,7 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
 - ✅ **Minimal hardware footprint**  
 
 ## Flow State and Sketches
-![Flow Diagram](./flowstate.png)  
+![flowstate1](https://github.com/Jerrycai4321/Fire-Guard/raw/main/flowstate1.png?raw=true)  
 1. **Data Acquisition**: EnvPRO + IR + Light → raw readings  
 2. **AQI Computation**: normalize & weight → 0–500 scale  
 3. **Threshold Check**:  
