@@ -3,8 +3,11 @@
 ## Project Brief
 FireGuard is a wildfire detection unit engineered for extreme resilience and sustainability. It is designed to withstand remote, harsh conditions and even direct wildfire exposure. The device minimizes pollution if damaged by fire, using materials that burn cleanly or not at all, and is built for potential reuse or recycling after a fire. The diagram below outlines FireGuard’s key components, each chosen for fire-resistance and low environmental impact, along with a life-cycle pathway for recovery and reuse.
 
-## Research
-![Research.png]((https://github.com/Jerrycai4321/Fire-Guard/blob/main/Slide%2016_9%20-%202.png?raw=true))
+## Project Research
+![Research.png](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Research.png?raw=true)
+
+## Product Design
+![Material.png](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Research.png?raw=true)
 
 
 
