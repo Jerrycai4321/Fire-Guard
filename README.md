@@ -1,5 +1,8 @@
 # Fire Guard – Fire Air-Quality Monitoring & Alert System
 
+![Image27](https://github.com/Jerrycai4321/Fire-Guard/blob/main/Image27.png?raw=true)
+
+
 ## Project Brief
 FireGuard is a wildfire detection unit engineered for extreme resilience and sustainability. It is designed to withstand remote, harsh conditions and even direct wildfire exposure. The device minimizes pollution if damaged by fire, using materials that burn cleanly or not at all, and is built for potential reuse or recycling after a fire. The diagram below outlines FireGuard’s key components, each chosen for fire-resistance and low environmental impact, along with a life-cycle pathway for recovery and reuse.
 
