@@ -32,6 +32,8 @@ FireGuard is a wildfire detection unit engineered for extreme resilience and sus
    - Flash NeoPixels red  
    - Publish Alert using  MQTT to Adafruit IO
 
+![diagram](https://github.com/Jerrycai4321/Fire-Guard/raw/main/diagram.png?raw=true)  
+
 ## Material Used
 - **Prototyping Platform**: ESP32 M5 Stack  
 - **Environmental Sensor**: EnvPRO Unit (gas, temp, humidity)  
